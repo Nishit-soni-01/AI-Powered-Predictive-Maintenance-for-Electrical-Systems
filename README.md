@@ -1,5 +1,8 @@
 # ⚡ AI-Powered Predictive Maintenance for Electrical Systems
 
+[![Streamlit App](https://ai-powered-predictive-maintenance-for-electrical-systems-jf37q.streamlit.app/)
+**🌐 Live Web App:** [Click here to launch the Predictive Maintenance AI](https://your-app-name.streamlit.app/)
+
 **Author:** Nishit Soni  
 **Institution:** ABES Engineering College, Ghaziabad, Uttar Pradesh  
 **Role:** AI Engineer / Data Scientist  
