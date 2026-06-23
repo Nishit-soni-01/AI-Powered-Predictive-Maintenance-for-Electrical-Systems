@@ -1,5 +1,6 @@
 # ⚡ AI-Powered Predictive Maintenance for Electrical Systems
 
+<img width="2400" height="1000" alt="predictive_maintenance_banner" src="https://github.com/user-attachments/assets/ba6face5-225c-4a12-9995-d32b041da28d" />
 
 **🌐 Live Web App:** [Click here to launch the Predictive Maintenance AI](https://your-app-name.streamlit.app/)
 
