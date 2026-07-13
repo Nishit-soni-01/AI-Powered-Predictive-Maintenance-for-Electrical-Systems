@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 
-# ── Page config ──────────────────────────────────────────────────────────────
+
 st.set_page_config(
     page_title="Predictive Maintenance AI",
     page_icon="⚡",
