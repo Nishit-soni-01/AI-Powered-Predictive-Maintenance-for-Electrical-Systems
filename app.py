@@ -182,7 +182,7 @@ st.markdown("""
     margin-bottom:14px;
   ">&#9889; AI-POWERED</div>
 
-  <!-- Title -->
+  
   <h1 style="
     margin:0 0 4px;
     font-family:'Inter',sans-serif;
