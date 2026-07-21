@@ -50,7 +50,7 @@ html, body, [data-testid="stAppViewContainer"],
 /* ── Remove default Streamlit padding top ── */
 [data-testid="stAppViewContainer"] > .main { padding-top: 0 !important; }
 
-/* ── Grid overlay ── */
+
 [data-testid="stAppViewContainer"]::before {
     content: '';
     position: fixed;
