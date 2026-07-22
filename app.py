@@ -39,7 +39,7 @@ st.markdown("""
     --font-mono:    'JetBrains Mono', monospace;
 }
 
-/* ── Full-page dark background ── */
+
 html, body, [data-testid="stAppViewContainer"],
 [data-testid="stApp"] {
     background-color: var(--bg-base) !important;
