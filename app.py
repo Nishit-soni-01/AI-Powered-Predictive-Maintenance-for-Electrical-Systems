@@ -75,7 +75,7 @@ html, body, [data-testid="stAppViewContainer"],
     background: linear-gradient(90deg, var(--blue-bright), var(--blue-mid)) !important;
 }
 
-/* ── Buttons ── */
+
 .stButton > button {
     background: linear-gradient(135deg, var(--blue-bright), var(--blue-mid)) !important;
     border: none !important;
